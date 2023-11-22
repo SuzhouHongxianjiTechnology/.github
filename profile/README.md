@@ -1,60 +1,7 @@
-### <img src="https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/Assets/Earth.gif" width="24px">
-<em>I graduated from <a href="https://www.suda.edu.cn/"><b>Soochow University</b></a>. From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. </em>
- <br/>
-## Ask me about :computer: 
-- **Tech Stack**
-	- 💻 &#160;![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.NET&logoColor=FCC624)
-	![LabView](https://img.shields.io/badge/-LabView-333333?style=flat&logo=payoneer&logoColor=FF4800)
-	![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-	![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go)
-	- 🌐 &#160;![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-	- 🛢 &#160;![SQLServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=react)
-	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-	- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-	![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-	![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-	
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-  
-- **My Blog**
-  - [Yueque-AlbertZhao](https://www.yuque.com/albertzhao)
-<br/><br/>
+苏州鸿贤吉科技有限公司，一家引领新一代数字技术与制造业深度融合的先驱者。我们以独特的视角和深入的理解，捕捉到制造业领域的数字化转型需求，并为此提供创新、专业的解决方案，积极响应中国制造2025政策。
 
-## 🌱 I’m currently learning ...
-- **AutoGPT**
-<br/>
-  <br/>
+我们始终坚守客户至上的理念，致力于开发数字化智慧工厂整体解决方案、工业互联网平台、MES 无人化工厂调度系统等。我们的目标是为大型制造企业提供完整的数字化转型服务，包括制造运营管理系统 MOM、高级排产排程系统 APS、仓储管理系统 WMS、物流执行系统 LES、全面在线质量管理系统 IQM、数字孪生仿真系统 Digital Twin 及大规模客户定制 C2M。同时，我们也为中小型制造企业提供成本效益高、灵活易用、快速见效的工业互联数字化转型服务，包括MES 系统、工业 APP 产品及 SaaS 运营服务。
 
+在苏州鸿贤吉科技有限公司，我们不仅为多个领域的客户提供数字化转型服务，包括汽车整车、新能源整车及三电、汽车传统动力总成（发动机及变速箱）、汽车零部件、3C 电子、光伏、工程机械、装备制造等，而且与许多行业标杆企业建立了长期战略合作关系。这些合作关系的建立，不仅增强了我们的服务能力，也进一步印证了我们在数字化转型领域的前沿地位。
 
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertZhaoz&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p>  
-
-<div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/AlbertZhaoz/AlbertZhaoz/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
-<p align="center">
- <a href="https://www.linkedin.com/in/albert-zhao-881368228/" target="blank">
-  <img align="center" alt="Albertzhao's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.zhihu.com/people/hongyongzhao" target="blank">
-  <img align="center" alt="Albertzhao's Wechat" width="30px" src="https://www.vectorlogo.zone/logos/wechat/wechat-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/albertzhaoz" target="blank">
-  <img align="center" alt="Albertzhao's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.youtube.com/channel/UCmYWP0JKRb4iiDhn7x97omg" target="blank">
-  <img align="center" alt="Albertzhao's Youtube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
- </a> 
-  <br/>
-  <br/>
-  Thanks for stopping by 😁<br/>
-</p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
-<br/>
-<p>
-Visit my profile and give a ⭐️ if you like it</p>
-
-⭐️ From [AlbertZhaoz](https://github.com/albertzhaoz)
+苏州鸿贤吉科技有限公司将持续推动新一代数字技术与制造业的深度融合，以专业的知识和经验，协同客户扩展数字化领域的未来。我们的目标不仅仅是帮助客户实现数字化转型，更是希望通过我们的努力，推动整个行业的进步和发展。
